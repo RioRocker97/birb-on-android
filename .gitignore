@@ -1,0 +1,8 @@
+__pycache__/
+birb2/
+res/
+temp/
+utils/
+models/
+temp_log.txt
+dockerbuild.txt
